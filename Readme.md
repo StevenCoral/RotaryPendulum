@@ -12,8 +12,7 @@ The main files are:
 ## Disclaimer
 The code is basic and provided as-is, without warranty of any kind. Use it at your own risk.  
 In general, one should have sufficient knowledge in control theory and optimal control methods in order to understand what's going on.  
-The system heavily depends on multiple parameters, some of which have to be measured and derived (e.g. the motor constants, gear ratio, encoder CPR, etc.),  
-others are just plain difficult to acquire (auch as moments of inertia of various parts).  
+The system heavily depends on multiple parameters, some of which have to be measured and derived (e.g. the motor constants, gear ratio, encoder CPR, etc.), others are just plain difficult to acquire (auch as moments of inertia of various parts).  
 Using the given numbers on ANY system different than the one it was tested on will NOT work by any circumstance.
 
 
