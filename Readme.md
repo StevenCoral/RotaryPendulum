@@ -6,7 +6,7 @@ It hold some theoretical data used to derive the state equations, along with som
 These files are not very useful and are only kept as reference.  
 The main files are:  
 * pendulum_arduino.m - a Matlab file that quickly calculates the controller gains needed for the balancing task.  
-* s_rotpen_bal.mdl - a Simulink model used to plot the respones of a pendulum under a square-wave rotary arm position reference.  
+* s_rotpen_bal.mdl - a Simulink model used to plot the respones of a pendulum under a square-wave rotary arm position reference. It was zipped to protect its binary nature.  
 * Arduino\pendulum\pendulum.ino - a C++ source code for downloading into an Arduino (Mega - recommended) that implements a full swing up / balance timed controller.  
   
 ## Disclaimer
